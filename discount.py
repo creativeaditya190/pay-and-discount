@@ -1,3 +1,4 @@
+#discount calculation project
 q=int(input("Enter no of item : "))
 if q>0 and q<=50:
     d=q*10
